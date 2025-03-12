@@ -38,7 +38,7 @@ Prerequisites
 
 - Ensure you have the following installed:
 
-- ode.js (https://nodejs.org/)
+- Node.js (https://nodejs.org/)
 
 - MongoDB (https://www.mongodb.com/)
 
