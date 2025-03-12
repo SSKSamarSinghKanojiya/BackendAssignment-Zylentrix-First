@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 app.use(bodyParser.json());
 
-app.use("/api", userRoutes);
+app.use("/user", userRoutes);
 
 const PORT = 3000;
 
